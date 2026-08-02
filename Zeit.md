@@ -1,3 +1,5 @@
+[Wie links sind die Rechtspopulisten?](https://www.zeit.de/feuilleton/2026-06/rechtspopulismus-politologie-philip-manow-feuilleton-podcast)
+
 [CSD Anschlag Berlin](https://www.zeit.de/feuilleton/2026-07/anschlag-csd-berlin-angst-taeter-polizei)
 
 [Sex Parties](https://www.zeit.de/arbeit/2026-07/sex-partys-inszenierung-sexualitaet-frei-liebe)
