@@ -27,3 +27,7 @@
 ## The Times
 
 [Arday 1](https://www.thetimes.com/uk/education/article/ason-arday-cambridge-professor-research-investigation-lsdpkqkr7)
+
+## Academic Journals
+
+[Quasi-oracle estimation of heterogeneous treatment effects](https://academic.oup.com/biomet/article-abstract/108/2/299/5911092)
