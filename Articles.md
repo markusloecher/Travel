@@ -1,5 +1,8 @@
 ## Zeit
 
+[Klimawandel?](https://www.zeit.de/2026/36/lebensmittelpreise-inflation-klimawandel-extremwetter-duerre)
+
+
 [Arday](https://www.zeit.de/feuilleton/2026-08/jason-arday-cambridge-rassismus-medien-doppelstandard)
 
 [Femcel](https://www.zeit.de/2026/34/femosphere-onlineforen-frauen-manosphere-maennerhass)
