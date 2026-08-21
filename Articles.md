@@ -21,7 +21,8 @@
 
 [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
-[]()
+## Sueddeutsche Zeitung 
+[Jason Arday](https://www.sueddeutsche.de/wissen/universitaet-cambridge-jason-arday-identitaet-wissenschaft-li.3524818?reduced=true)
 
 ## Welt
 
