@@ -1,5 +1,9 @@
 ## Zeit
 
+[Flash Flood Tibet](https://www.zeit.de/wissenschaft/2026-08/nepal-sturzflut-bhote-koshi-langtang-fruehwarnsystem)
+
+[AFD Tillschneider](https://www.zeit.de/2026/37/hans-thomas-tillschneider-afd-sachsen-anhalt-nationalkultur-kulturpolitik)
+
 [Klimawandel?](https://www.zeit.de/2026/36/lebensmittelpreise-inflation-klimawandel-extremwetter-duerre)
 
 
