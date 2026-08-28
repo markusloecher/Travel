@@ -23,6 +23,8 @@
 
 ## Economist
 
+[Flash Flood Nepal](https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood)
+
 [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
 ## Sueddeutsche Zeitung 
