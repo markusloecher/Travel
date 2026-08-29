@@ -40,6 +40,8 @@
 
 ## Academic Journals
 
+[Zeileis Hothorn Lego](https://www.tandfonline.com/doi/abs/10.1198/000313006X118430)
+
 [Quasi-oracle estimation of heterogeneous treatment effects](https://academic.oup.com/biomet/article-abstract/108/2/299/5911092)
 
 [Interoceptive performance is unrelated to mental health symptoms](https://www.nature.com/articles/s44220-026-00688-4)
