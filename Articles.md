@@ -1,5 +1,7 @@
 ## Zeit
 
+[Freundschaften Erwachsene](https://www.zeit.de/2026/38/freundschaften-erwachsene-arbeit-zeit-kalender-alltag)
+
 [Hochbegabte im Job](https://www.zeit.de/arbeit/2026-08/hochbegabung-arbeitsplatz-beruf-erwachsene-nachteile)
 
 [Flash Flood Tibet](https://www.zeit.de/wissenschaft/2026-08/nepal-sturzflut-bhote-koshi-langtang-fruehwarnsystem)
