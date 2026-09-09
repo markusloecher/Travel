@@ -44,6 +44,8 @@
 
 ## Academic Journals
 
+[States that are essentially by products](https://journals.sagepub.com/doi/10.1177/053901848102000301)
+
 [Zeileis Hothorn Lego](https://www.tandfonline.com/doi/abs/10.1198/000313006X118430)
 
 [Quasi-oracle estimation of heterogeneous treatment effects](https://academic.oup.com/biomet/article-abstract/108/2/299/5911092)
