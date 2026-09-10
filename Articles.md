@@ -27,6 +27,8 @@
 
 ## Economist
 
+(woke-1-was-about-identity-woke-2-is-about-class)[https://www.economist.com/united-states/2026/09/03/woke-1-was-about-identity-woke-2-is-about-class]
+
 [Flash Flood Nepal](https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood)
 
 [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
