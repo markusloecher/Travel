@@ -35,6 +35,11 @@
 
 [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
+
+#### The Insider
+
+(is-islamism-a-threat-to-europe)[https://www.economist.com/insider/the-insider/is-islamism-a-threat-to-europe]
+
 ## Sueddeutsche Zeitung 
 [Jason Arday](https://www.sueddeutsche.de/wissen/universitaet-cambridge-jason-arday-identitaet-wissenschaft-li.3524818?reduced=true)
 
