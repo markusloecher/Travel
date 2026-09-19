@@ -1,5 +1,7 @@
 ## Zeit
 
+[Schweden Rechtspopulisten](https://www.zeit.de/politik/2026-09/schweden-wahl-brandmauer-magdalena-andersson)
+
 [Freundschaften Erwachsene](https://www.zeit.de/2026/38/freundschaften-erwachsene-arbeit-zeit-kalender-alltag)
 
 [Hochbegabte im Job](https://www.zeit.de/arbeit/2026-08/hochbegabung-arbeitsplatz-beruf-erwachsene-nachteile)
