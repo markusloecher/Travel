@@ -29,17 +29,20 @@
 
 ## Economist
 
+[The way to form good habits, and break bad ones: trick your brain](https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZWYpYAx7FvA-l8AyYylP3XuYAiHgy5Rl9WiyqKuF6ng1y2t3GWRM7D-YTqu2MPSszpuzCq9egBWPllpl_fNbXcZc4F8ZOXgr1roSc)
+
+[Is too much sleep as bad as too little?](https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZijlPqrgbfgFDWXcTthEAqgjlMmqC2HxVNoja0B4hmAMWs3CgjN7C0Yo89I6pGvYqjmi0kTwSeDaB1ipF9LgGgpSl_30VhevcrHVg)
+
+[Can a dopamine detox reset your brain?](https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZmVOfUl62aL2jAQwTYiSqTGCUcCJgueVxelVmLJSoXDZrXLZrZMotHFv9eNbqtl13d-_YZaMFRgP9z-CmJU_AMDCZ81HYS1GJqy78)
+
+[]()
+
+[hyrox](https://www.economist.com/culture/2026/09/01/hyrox-the-fitness-craze-that-runs-and-runs)
+
+[woke-1-was-about-identity-woke-2-is-about-class](https://www.economist.com/united-states/2026/09/03/woke-1-was-about-identity-woke-2-is-about-class)
+
 (The way to form good habits, and break bad ones: trick your brain)[https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZWYpYAx7FvA-l8AyYylP3XuYAiHgy5Rl9WiyqKuF6ng1y2t3GWRM7D-YTqu2MPSszpuzCq9egBWPllpl_fNbXcZc4F8ZOXgr1roSc]
 
-(Is too much sleep as bad as too little?)[https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZijlPqrgbfgFDWXcTthEAqgjlMmqC2HxVNoja0B4hmAMWs3CgjN7C0Yo89I6pGvYqjmi0kTwSeDaB1ipF9LgGgpSl_30VhevcrHVg]
-
-(Can a dopamine detox reset your brain?)[https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZmVOfUl62aL2jAQwTYiSqTGCUcCJgueVxelVmLJSoXDZrXLZrZMotHFv9eNbqtl13d-_YZaMFRgP9z-CmJU_AMDCZ81HYS1GJqy78]
-
-()[]
-
-(hyrox)[https://www.economist.com/culture/2026/09/01/hyrox-the-fitness-craze-that-runs-and-runs]
-
-(woke-1-was-about-identity-woke-2-is-about-class)[https://www.economist.com/united-states/2026/09/03/woke-1-was-about-identity-woke-2-is-about-class]
 
 [Flash Flood Nepal](https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood)
 
@@ -48,7 +51,7 @@
 
 #### The Insider
 
-(is-islamism-a-threat-to-europe)[https://www.economist.com/insider/the-insider/is-islamism-a-threat-to-europe]
+[is-islamism-a-threat-to-europe](https://www.economist.com/insider/the-insider/is-islamism-a-threat-to-europe)
 
 ## Sueddeutsche Zeitung 
 [Jason Arday](https://www.sueddeutsche.de/wissen/universitaet-cambridge-jason-arday-identitaet-wissenschaft-li.3524818?reduced=true)
