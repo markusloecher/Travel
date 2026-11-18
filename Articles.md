@@ -41,8 +41,6 @@
 
 [woke-1-was-about-identity-woke-2-is-about-class](https://www.economist.com/united-states/2026/09/03/woke-1-was-about-identity-woke-2-is-about-class)
 
-(The way to form good habits, and break bad ones: trick your brain)[https://click.e.economist.com/?qs=ABl7ImQiOjUwNjAsInQiOjkwMTcsInMiOjd9AAcAAAAACVz06SZWYpYAx7FvA-l8AyYylP3XuYAiHgy5Rl9WiyqKuF6ng1y2t3GWRM7D-YTqu2MPSszpuzCq9egBWPllpl_fNbXcZc4F8ZOXgr1roSc]
-
 
 [Flash Flood Nepal](https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood)
 
